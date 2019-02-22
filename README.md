@@ -1,10 +1,12 @@
 # " D3.js_Data_Visualizations_Basic "
-> D3 (Data-Driven Documents)란?
-> 강력한 시각화 프레임워크를 제공하는 데이터 기반 문서 조작을 위한 자바스크립트 라이브러리 https://d3js.org
-> 데이터와 상호작용하는 웹 페이지 만들 때 좋음
-> D3.js (or just D3 for Data-Driven Documents) is a JavaScript library for producing dynamic, interactive data visualizations in web browsers. It makes use of the widely implemented SVG, HTML5, and CSS standards. It is the successor to the earlier Protovis framework.  - Wikipedia
+> https://d3js.org
 
-## 1. 데이터 시각화 과정
+## 1. D3 (Data-Driven Documents)란?
+#### 강력한 시각화 프레임워크를 제공하는 데이터 기반 문서 조작을 위한 자바스크립트 라이브러리 https://d3js.org
+#### 데이터와 상호작용하는 웹 페이지 만들 때 좋음
+#### D3.js (or just D3 for Data-Driven Documents) is a JavaScript library for producing dynamic, interactive data visualizations in web browsers. It makes use of the widely implemented SVG, HTML5, and CSS standards. It is the successor to the earlier Protovis framework.  - Wikipedia
+
+## 2. 데이터 시각화 과정
 
 #### Ben Fry 의 데이터 시각화 과정 
 
@@ -17,13 +19,13 @@
 ##### 7. Interact - 데이터나 시각화된 결과물을 조작할 수 있는 기능 제공하기   
 
 
-## 2. 아주 간단한 D3 실습
+## 3. 아주 간단한 D3 실습
 
 #### D3를 이용하여 빨간색 동그라미와 초록색 정사각형을 그리고 버튼으 누르면 글씨가 나오게 만들기
 
 <img src="https://user-images.githubusercontent.com/41661879/53242378-e7741300-36e7-11e9-992f-6b53e131851d.png" width="50%" height="50%">
 
-## 2. 생성일
+## 4. 생성일
 
 #### 2018.11.14(WED)
 
