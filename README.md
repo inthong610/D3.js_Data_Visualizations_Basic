@@ -2,7 +2,7 @@
 > https://d3js.org
 
 ## 1. D3 (Data-Driven Documents)란?
- 강력한 시각화 프레임워크를 제공하는 데이터 기반 문서 조작을 위한 자바스크립트 라이브러리 https://d3js.org
+- 강력한 시각화 프레임워크를 제공하는 데이터 기반 문서 조작을 위한 자바스크립트 라이브러리 https://d3js.org
 #### 데이터와 상호작용하는 웹 페이지 만들 때 좋음
 #### D3.js (or just D3 for Data-Driven Documents) is a JavaScript library for producing dynamic, interactive data visualizations in web browsers. It makes use of the widely implemented SVG, HTML5, and CSS standards. It is the successor to the earlier Protovis framework.  - Wikipedia
 
